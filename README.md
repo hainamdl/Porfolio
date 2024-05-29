@@ -6,7 +6,6 @@ Mô tả Dự án:
 Dự án này tập trung vào việc xây dựng một hệ thống crawler để thu thập dữ liệu từ các trang web bán xe ô tô. Mục tiêu là thu thập các thông tin chi tiết về xe ô tô như hãng, mẫu xe, năm sản xuất, giá bán, tình trạng, và các thông số kỹ thuật khác.
 
 Các bước thực hiện:
-
 Nghiên cứu và chọn lựa trang web: Xác định các trang web bán xe ô tô có cấu trúc dữ liệu phù hợp và cho phép thu thập dữ liệu.
 Xây dựng hệ thống crawler: Sử dụng các công cụ như Scrapy hoặc Beautiful Soup để xây dựng hệ thống crawler tự động.
 Xử lý dữ liệu: Tiến hành làm sạch và chuẩn hóa dữ liệu thu thập được.
