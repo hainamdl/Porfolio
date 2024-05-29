@@ -1,1 +1,0 @@
-Bài này đa phần là bước đầu chập chững nên còn khá nhiều coppy
