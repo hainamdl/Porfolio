@@ -1,3 +1,0 @@
-https://public.tableau.com/app/profile/l.nam7317/viz/DaLatCiTyBoi/Khchhng
-
-Lưu ý: link trên dasbroad có 3 tab nhớ để ý và chuyển tab để kiểm tra 3 dashbroad do quá trình làm bài không thể public trên power BI vì không có tiền mua nên tụi em làm 1 cái file power Bi và link trên thì làm bằng Tableau
