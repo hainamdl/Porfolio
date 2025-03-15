@@ -21,9 +21,12 @@ Hello, I'm Le Dai Hai Nam, and this is my Data Analyst portfolio. I am currently
    - Link: [Dashboard 1](https://github.com/hainamdl/Porfolio/blob/main/DataCinema/Dasbroad/BaiThiDaLatCiTyBoi.pbix)
 
 ### Projects
-1. Car Data Crawler
+1. **Project 1**
    - Description: Scraping Car Data from Cars-Data Website Using Python.
    - Link: [Project 1](https://github.com/hainamdl/Porfolio/blob/main/CrawlerDataCar/CrawlDuLieuXe.ipynb)
+2. **Project 2**
+   - Description: Using linear regression to predict car prices Using Python.
+   - Link: [Project 2](https://github.com/hainamdl/Porfolio/blob/main/Trant%20ML%20with%20data%20Car/ML%20with%20data%20car.ipynb)
 
 ## Contact
 
