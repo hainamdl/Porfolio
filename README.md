@@ -1,4 +1,24 @@
-# Porfolio
+# Le Dai Hai Nam - Data Analyst Portfolio
+
+## Introduction
+
+Hello, I'm Le Dai Hai Nam, and this is my Data Analyst portfolio. I am currently working on Data Analytic, and passion journey of learning and self-improvement in the field as also. This portfolio showcases some of my work, including dashboards I have designed and various projects I have worked on using Power BI, SQL, Excel, Python and R.
+
+## About Me
+
+- **Name:** Le Dai Hai Nam
+- **Location:** Da Lat city, Vietnam
+- **LinkedIn:** [Link to LinkedIn Profile](https://www.linkedin.com/in/namdalat/)
+- **GitHub:** [Link to GitHub Profile](https://github.com/hainamdl/Porfolio/tree/main)
+- **Email:** ldhnam2020@gmail.com
+
+## Portfolio Contents
+
+### Dashboards
+
+1. **Dashboard 1**
+   - Description: A sample Cinema dashboard created using Power BI.
+   - Link: [Dashboard 1](https://github.com/hainamdl/Porfolio/tree/main/DataCinema/Dasbroad)
 
 
 1. Crawler Dữ Liệu Xe Ô Tô
